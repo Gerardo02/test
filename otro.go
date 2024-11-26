@@ -1,7 +1,5 @@
 package main
 
-import "log"
-
-func holaquehace() {
-	log.Println("hola brother")
+func Holaquehace() string {
+	return "hola"
 }
